@@ -10,6 +10,10 @@ Welcome to my project showcase!
 
       Feel free to check them out and reach out if you'd like to know more!
 
+
+
+
+
      MY PORTFOLIO : https://gayathri-portfolio-1402.netlify.app/
 
      Velvet Atlier : https://velvet-atelier-treats.netlify.app/
