@@ -8,9 +8,12 @@ Feel free to check them out and reach out if you'd like to know more!
 
 ---
 
+- **My Portfolio**: [https://gayathri-portfolio-1402.netlify.app/](https://gayathri-portfolio-1402.netlify.app/)
+
+
 ### 🔗 Live Projects
 
-- **My Portfolio**: [https://gayathri-portfolio-1402.netlify.app/](https://gayathri-portfolio-1402.netlify.app/)
+
 - **Velvet Atelier**: [https://velvet-atelier-treats.netlify.app/](https://velvet-atelier-treats.netlify.app/)
 - **Blog Website**: [https://creative-snickerdoodle-5eedc6.netlify.app/](https://creative-snickerdoodle-5eedc6.netlify.app/)
 - **Notes Application**: [https://notes-application-app.vercel.app/](https://notes-application-app.vercel.app/)
